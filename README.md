@@ -1,4 +1,4 @@
-# 安裝說明
+# 安裝說明(PHP version 5.6.30)
     1.把資料夾放到www文件夾裡
     2.啟動Apache以及MySQL
     3.至http://localhost/phpMyAdmin/登入並輸入帳號密碼（帳號為root，密碼為rootroot）
